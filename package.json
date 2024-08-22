@@ -1,0 +1,15 @@
+{
+  "name": "simon-game-challenge-starting-files",
+  "version": "1.0.0",
+  "description": "Juego de Simón dice con jQuery.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavasCript",
+    "jQuery"
+  ],
+  "author": "Miguel Franco <mianfraru@gmail.com>",
+  "license": "MIT"
+}
